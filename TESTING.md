@@ -40,6 +40,3 @@ Collect three specific comments from intended users or peers. If intended users 
 - **Issue or suggestion:** Users may be unsure whether an action, such as saving an announcement or submitting a form, was successful.
 - **Proposed improvement:** Use clear button labels and visible confirmation or error messages where supported by the prototype.
 - **Status:** [Not started / In progress / Implemented]
-
-### Feedback Summary
-The feedback review should identify usability improvements that make announcements easier to discover, understand, and interact with. The team should select at least one feasible improvement, implement it, and document before-and-after evidence.
