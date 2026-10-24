@@ -5,7 +5,7 @@ Record actual observations on the version tested. Do not mark Pass/Fail until yo
 | ID | Action/input | Expected result | Actual result | Status |
 |---|---|---|---|---|
 | T1 | Log in with valid Student demo credentials | Student setup/dashboard flow opens | To record | Pass |
-| T2 | Attempt login with invalid credentials | Access is rejected | To record | Not run |
+| T2 | Attempt login with invalid credentials | Access is rejected | To record | Pass |
 | T3 | Search for a distinctive word in a sample announcement | Matching results or a clear no-results state appears | To record | Pass |
 | T4 | Apply a category/department filter and change sort order | List reflects the selected filter/order | To record | Pass |
 | T5 | Save an announcement and open Saved announcements | Item appears during the active page session | To record | Pass |
