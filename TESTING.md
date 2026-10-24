@@ -16,6 +16,30 @@ Record actual observations on the version tested. Do not mark Pass/Fail until yo
 
 Collect three specific comments from intended users or peers. If intended users are unavailable, label responses as peer review and note that they are not representative user research.
 
-- Feedback 1: reviewer/context, exact comment, decision, evidence
-- Feedback 2: reviewer/context, exact comment, decision, evidence
-- Feedback 3: reviewer/context, exact comment, decision, evidence
+## User Feedback
+- **Prototype reviewed:** Announce IQ
+- **Feedback method:** Informal peer review and prototype usability testing
+- **Participants:** 3 peer reviewers
+- **Date:** 23/10/26
+- **Note:** Replace the sample feedback below with comments collected from actual reviewers before submitting.
+
+### Feedback 1: Easier Announcement Discovery
+- **Sample comment:** "The search and category filters make it easier to find announcements relevant to my interests."
+- **Issue or suggestion:** Make relevant announcements easier to identify at a glance.
+- **Proposed improvement:** Improve the visual distinction of announcement categories and make search and filter controls easy to locate.
+- **Status:** [Not started / In progress / Implemented]
+
+### Feedback 2: Clearer Announcement Details
+- **Sample comment:** "Important information, such as deadlines, department names, and registration links, should be easy to find."
+- **Issue or suggestion:** Important announcement information may be overlooked if it is not clearly presented.
+- **Proposed improvement:** Organize announcement details into clearly labelled sections and make missing registration information clear to users.
+- **Status:** [Not started / In progress / Implemented]
+
+### Feedback 3: Better Interface Guidance
+- **Sample comment:** "The interface would be easier to use if buttons and actions had clearer labels and feedback messages."
+- **Issue or suggestion:** Users may be unsure whether an action, such as saving an announcement or submitting a form, was successful.
+- **Proposed improvement:** Use clear button labels and visible confirmation or error messages where supported by the prototype.
+- **Status:** [Not started / In progress / Implemented]
+
+### Feedback Summary
+The feedback review should identify usability improvements that make announcements easier to discover, understand, and interact with. The team should select at least one feasible improvement, implement it, and document before-and-after evidence.
