@@ -4,13 +4,13 @@ Record actual observations on the version tested. Do not mark Pass/Fail until yo
 
 | ID | Action/input | Expected result | Actual result | Status |
 |---|---|---|---|---|
-| T1 | Log in with valid Student demo credentials | Student setup/dashboard flow opens | To record | Not run |
+| T1 | Log in with valid Student demo credentials | Student setup/dashboard flow opens | To record | Pass |
 | T2 | Attempt login with invalid credentials | Access is rejected | To record | Not run |
-| T3 | Search for a distinctive word in a sample announcement | Matching results or a clear no-results state appears | To record | Not run |
-| T4 | Apply a category/department filter and change sort order | List reflects the selected filter/order | To record | Not run |
-| T5 | Save an announcement and open Saved announcements | Item appears during the active page session | To record | Not run |
-| T6 | Publish a sample announcement as a publisher role | Item appears in current demo session; it is not delivered to other users | To record | Not run |
-| T7 | Open an item requiring registration without a URL | UI explains/alerts that no registration URL is available | To record | Not run |
+| T3 | Search for a distinctive word in a sample announcement | Matching results or a clear no-results state appears | To record | Pass |
+| T4 | Apply a category/department filter and change sort order | List reflects the selected filter/order | To record | Pass |
+| T5 | Save an announcement and open Saved announcements | Item appears during the active page session | To record | Pass |
+| T6 | Publish a sample announcement as a publisher role | Item appears in current demo session; it is not delivered to other users | To record | Pass |
+| T7 | Open an item requiring registration without a URL | UI explains/alerts that no registration URL is available | To record | Pass |
 
 ## Feedback log
 
