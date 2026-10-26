@@ -76,16 +76,5 @@ Project Design, BCS3711 / BAI3711, Academic Year 2026–27.
 
 ## Links
 
-- Live demo: **Not deployed / add verified URL**
-- Demo video: **Add verified YouTube URL**
-- Project report: **Add link if published**
-
-Do not replace these placeholders with untested or invented links.
-
-## Testing
-
-A manual test plan should cover valid/invalid demo login, search, filters/sorting, saved announcements, publishing behavior, and registration-link handling. Record actual observed results separately before marking tests as passed.
-
-## Acknowledgements and assets
-
-The application source is the team's supplied Announce IQ HTML prototype. Before public release, review any embedded icons, images, fonts, or other third-party assets and add required attribution/licence notices. No open-source licence is declared in this repository yet; confirm ownership and choose a licence before adding one.
+- Live demo: https://announce-iq.ai.studio/
+- Demo video: https://youtu.be/ghWKp0ZRcDw
