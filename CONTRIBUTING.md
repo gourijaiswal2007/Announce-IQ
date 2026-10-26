@@ -1,44 +1,32 @@
-# Contributing to Announce IQ
+# Announce IQ — Team Contributions
 
-Thank you for your interest in improving Announce IQ, a prototype for a centralized, interest-based university announcement platform.
+Announce IQ is a centralized, interest-based university announcement platform developed as part of our academic project. The project aims to help students discover relevant college announcements through personalized interests, categories, and search functionality.
 
-## Project Team
+## Project Team and Responsibilities
 
-- Payal Sharma
-- Priyanka Jahdhav
-- Gouri Jaiswal
+### 1. Payal Sharma — Feedback and Testing
+- Collected and documented peer feedback on the Announce IQ prototype.
+- Recorded feedback regarding interest-based announcements, category visibility, and the diversity of the interest questionnaire.
+- Documented suggestions for improving saved-announcement persistence.
+- Recorded feedback about clarifying whether published announcements reach other students.
+- Prepared testing results and documented areas for future improvement.
 
-## How to Contribute
+### 2. Gouri Jaiswal — GitHub Repository and Documentation
+- Managed the project repository and its organization on GitHub.
+- Organized project files and supporting documentation in the repository.
+- Worked on documenting the project features, testing process, and known limitations.
+- Helped maintain the project materials for review and submission.
 
-1. Review the project README to understand the purpose and current features.
-2. Identify an issue, usability problem, or feature that could be improved.
-3. Discuss the proposed change with the project team.
-4. Make the change and test the affected functionality.
-5. Document the change and any test results.
-6. Submit the updated work for review by the team.
+### 3. Priyanka Jahdhav — Logo and Demonstration
+- Worked on the Announce IQ logo and visual identity.
+- Contributed to presenting the project's concept and interface.
+- Prepared and supported the project demonstration to explain the platform's purpose and features.
+- Made final changes in the website prototype.
+## Team Collaboration
 
-## Contribution Guidelines
-
-- Keep changes relevant to the project objectives.
-- Use clear and descriptive names for files and functions.
-- Test changes before reporting them as complete.
-- Do not include passwords, private information, or real student data.
-- Clearly document known limitations and incomplete features.
-- Do not claim a feature works unless it has been tested.
-
-## Current Project Status
-
-Announce IQ is an academic prototype. It uses sample announcement data and demo login credentials. It does not currently provide a production backend, secure production authentication, or real cross-user announcement synchronisation.
-
-## Reporting Issues
-
-When reporting a problem, include:
-- A short description of the issue.
-- Steps to reproduce it.
-- The expected behaviour.
-- The actual behaviour.
-- Whether the issue can be reproduced consistently.
+The team worked toward developing and presenting Announce IQ as a prototype for a centralized, interest-based university announcement platform. Team contributions covered the prototype review, feedback and testing, repository organization, visual identity, and project demonstration.
 
 ## Acknowledgements
 
-Contributions, feedback, and improvements should be acknowledged accurately in the project documentation and final coursework submission.
+We acknowledge the contributions of all team members and the peer reviewers who provided feedback on the prototype. Their input helped identify opportunities to improve announcement discovery, saved-announcement persistence, and clarity about the publishing limitations.
+
