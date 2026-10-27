@@ -76,5 +76,5 @@ Project Design, BCS3711 / BAI3711, Academic Year 2026–27.
 
 ## Links
 
-- Live demo: https://announce-iq.ai.studio/
+- Live demo:https://announce-iq-college-announcements.vercel.app/
 - Demo video: https://youtu.be/ghWKp0ZRcDw
