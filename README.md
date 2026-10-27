@@ -68,8 +68,8 @@ These are **public demo credentials embedded in the client-side prototype**, not
 
 ## Team
 
-- Payal Sharma
-- Priyanka Jahdhav
+- Payal Priya
+- Priyanka Jadhav
 - Gouri Jaiswal
 
 Project Design, BCS3711 / BAI3711, Academic Year 2026–27.
